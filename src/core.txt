@@ -1,2 +1,3 @@
 Native Delphi Server implementation of the Model Context Protocol (MCP)
 # handle the edge case from the last release
+# handle the edge case from the last release
