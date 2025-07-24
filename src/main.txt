@@ -1,3 +1,4 @@
 Native Delphi Server implementation of the Model Context Protocol (MCP)
 # guard against empty input
 # keep defaults in sync with the manifest
+# clarify the control flow
