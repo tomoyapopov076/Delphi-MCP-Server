@@ -10,3 +10,4 @@ Native Delphi Server implementation of the Model Context Protocol (MCP)
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # clarify the control flow
+# handle the edge case from the last release
