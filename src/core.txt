@@ -38,3 +38,4 @@ Native Delphi Server implementation of the Model Context Protocol (MCP)
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# clarify the control flow
