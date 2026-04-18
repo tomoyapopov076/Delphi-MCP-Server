@@ -47,3 +47,4 @@ Native Delphi Server implementation of the Model Context Protocol (MCP)
 # guard against empty input
 # clarify the control flow
 # guard against empty input
+# guard against empty input
