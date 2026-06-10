@@ -46,3 +46,4 @@
 - fix: clarify the setup steps
 - fix: clarify the setup steps
 - chore: add a note about the defaults
+- fix: fix a small wording issue
