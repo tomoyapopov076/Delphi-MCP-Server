@@ -69,3 +69,4 @@ Notes and usage details for Delphi-MCP-Server.
 - link the usage section
 - link the usage section
 - clarify the setup steps
+- link the usage section
